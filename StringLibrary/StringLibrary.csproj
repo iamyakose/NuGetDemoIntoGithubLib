@@ -3,10 +3,11 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <Authors>iamyakose</Authors>
-    <Company>dk.iamyakose</Company>
+    <Company>Iamyakose, Inc</Company>
     <RepositoryUrl>https://github.com/iamyakose/NuGetDemoIntoGithubLib</RepositoryUrl>
 	  <IsPackable>true</IsPackable>
 	  <PackageId>NugetDemoApp</PackageId>
   </PropertyGroup>
 
 </Project>
+ 
