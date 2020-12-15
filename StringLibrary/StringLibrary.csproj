@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>iamyakose</Authors>
+    <Company>dk.iamyakose</Company>
+    <RepositoryUrl>https://github.com/iamyakose/NuGetDemoIntoGithubLib</RepositoryUrl>
+	  <IsPackable>true</IsPackable>
+	  <PackageId>NugetDemoApp</PackageId>
+  </PropertyGroup>
+
+</Project>
